@@ -1,0 +1,4 @@
+postgres-data/*
+venv/*
+.idea/*
+.DS_Store
